@@ -45,7 +45,7 @@ As the model's accuracy increases, its loss decreases accordingly. The ultimate 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-This Case Study is developed for Advanced Linear regression required for UpGrad - IIIT, Bangalore Programme
+This Case Study is developed for Melanoma Detection using CNN required for UpGrad - IIIT, Bangalore Programme
 
 
 ## Contact
